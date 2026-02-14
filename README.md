@@ -10,4 +10,7 @@ Vector version : n_ball_surface(r::Vector{Float64},n::Int64) to get a vector of 
 n_ball_vol_surf(r::Float64,n::Int64) to get the volume and surface of n-dimensional ball with radius r. 
 Vector version : n_ball_vol_surf(r::Vector{Float64},n::Int64) to get a DataFrame of both surfaces and volumes.
 
+
+<img width="484" height="695" alt="Screenshot 2026-02-14 025645" src="https://github.com/user-attachments/assets/26371b6c-fbe5-4c13-91ec-a7589bede9ed" />
+
 [![Build Status](https://github.com/him300/N_Balls.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/him300/N_Balls.jl/actions/workflows/CI.yml?query=branch%3Amaster)
