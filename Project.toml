@@ -1,12 +1,20 @@
 name = "N_Balls"
-uuid = "1516a9df-afe8-4e6d-b045-52d61e3c975e"
-authors = ["Vectorized_Mind"]
+uuid = "931db479-4bb7-4c79-b0ca-9b52654c2507"
 version = "1.0.0-DEV"
+authors = ["Vectorized_Mind"]
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 
 [compat]
+DataFrames = "1.8.1"
+SpecialFunctions = "2.7.1"
 julia = "1.10.10"
 
 [extras]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [targets]
