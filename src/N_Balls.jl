@@ -20,7 +20,7 @@ end
   s="$(n_ball_volume(r,n))"
   s1="$n-Ball Volume: "
   s2="$(n_ball_surface(r,n))"
-  s3="$n-Ball Surface/Area: "
+  s3="$n-Ball Surface: "
   println(s1*s)
   println(s3*s2)
 end
