@@ -1,4 +1,4 @@
-module N_Balls
+module NBalls
 
 import SpecialFunctions:gamma
 import DataFrames:DataFrame
